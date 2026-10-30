@@ -70,3 +70,15 @@ Note di lettura:
 
 ## 5. Cosa serve per chiudere (vedi `azioni-manuali.md`)
 1 attivare Archivio 1665 → 2 barra link in News → 3 snippet redirect → 4 AIOSEO (paginazione, titoli, og:image, sitemap) → 5 Weglot (traduzioni, x-default) → 6 Search Console. Poi ripetere la verifica Playwright.
+
+## 6. Aggiornamento 30/10/2026 – modifiche fatte dal cliente nell'editor (verificate dopo)
+
+| Cosa | Esito verificato |
+|---|---|
+| Condizione Archivio 1665 → Archivi → Categorie | Attiva su categorie in 5 lingue; `/tag/in-evidenza/` torna al fallback del tema |
+| Header 22: aggiunta condizione Archivi → Categorie (Singolare invariato) | Header su categorie e home (5 lingue) |
+| Pagina News 864: Filtro tassonomia sostituito dal widget Template (1664) | Barra con 10 link tradotti; filtro assente |
+| CSS stato attivo con `!important` (nell'Archivio) | Pulsante categoria corrente nero su IT/EN/FR/DE/ES; **su `/news/` "Tutti" non nero** (CSS ancora da incollare nel template 1664) |
+
+Causa dell'errore iniziale sullo stile attivo: il CSS salvato nella pagina News vale solo lì; l'Archivio carica il proprio CSS e il template 1664 ha il suo file (`post-1664.css`). Lo stile base dei pulsanti Elementor ha specificità maggiore, quindi serve `!important`.
+Resta aperta la parte descritta in `azioni-manuali.md` (redirect, AIOSEO, Weglot, Search Console).

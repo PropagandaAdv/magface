@@ -3,6 +3,15 @@
 Ordine consigliato: **1 → 2 → 3** vanno fatti in sequenza (la barra di link nella News porta alle categorie, che devono prima avere il template). Il resto è indipendente.
 Backup di riferimento prima di toccare qualunque cosa: UpdraftPlus **`e0a34b080fc9`** (30/10/2026).
 
+## Aggiornamento 30/10/2026 (sera) – stato dopo i passaggi eseguiti dal cliente
+
+Verificato sul sito live:
+- **Fatto:** Archivio 1665 attivo con condizione **Archivi → Categorie** (solo categorie; `/tag/…` è tornato al layout precedente). Header 22 esteso con **Includi → Archivi → Categorie** (oltre a *Singolare*): header presente su categorie e home in tutte le 5 lingue.
+- **Fatto:** Filtro tassonomia sostituito nella News con la barra di link (widget *Template* → "Barra categorie News (link)", ID 1664). Link tradotti correttamente in EN/ES/FR/DE.
+- **Fatto:** CSS dello stato attivo con `!important` incollato nell'Archivio: il pulsante della categoria corrente è nero in IT/EN/FR/DE/ES.
+- **Ancora da fare:** incollare lo **stesso CSS con `!important` nel template 1664** (Barra categorie News): senza, su `/news/` il pulsante "Tutti" non risulta nero (verificato). Il CSS è oggi solo nell'Archivio.
+- I punti **1 e 2** qui sotto sono quindi chiusi (tranne il CSS nel template 1664). Restano i punti 3–7 (redirect, AIOSEO, Weglot, Search Console, altro).
+
 ## 1. Attivare il template "Archivio categorie News" (Theme Builder)
 
 Perché a mano: ho creato il template (ID **1665**) e impostato la condizione, ma la cache delle condizioni di Elementor Pro non si aggiorna se non si salva dall'editor, quindi non si attivava (verificato). Ho riportato la condizione a vuoto per non farlo andare live senza che sia stato visto.
