@@ -1,0 +1,15 @@
+HTTP/1.1 200 Connection Established
+
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 14:11:44 GMT
+Server: Apache
+Link: <https://www.magface.it/wp-json/>; rel="https://api.w.org/", <https://www.magface.it/wp-json/wp/v2/pages/137>; rel="alternate"; title="JSON"; type="application/json", <https://www.magface.it/>; rel=shortlink
+Cache-Control: public, max-age=0, must-revalidate
+Set-Cookie: PHPSESSID=4e821fe4bb8689bbb968fd42d8042801; path=/
+Last-Modified: Tue, 17 Nov 2026 14:11:54 GMT
+Cache-Control: max-age=0
+Expires: Tue, 17 Nov 2026 14:11:44 GMT
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
