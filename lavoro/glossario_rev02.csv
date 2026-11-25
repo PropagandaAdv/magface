@@ -1,0 +1,36 @@
+tipo,it,en,fr,de,es,note
+always_translate,posa,installation,pose,Verlegung,colocación,NUOVA
+always_translate,posa magnetica a secco,dry magnetic installation,pose magnétique à sec,magnetische Trockenverlegung,colocación magnética en seco,NUOVA
+always_translate,posa tradizionale,traditional installation,pose traditionnelle,herkömmliche Verlegung,colocación tradicional,NUOVA
+always_translate,installazione a secco,dry installation,pose à sec,Trockenverlegung,colocación en seco,"ES CORRETTA (era ""instalación en seco"")"
+always_translate,brevettato / brevettata,patented,breveté / brevetée,patentiert,patentado / patentada,NUOVA
+always_translate,brevetto internazionale,international patent,brevet international,internationales Patent,patente internacional,NUOVA
+always_translate,senza demolizioni,without demolition,sans démolition,ohne Abriss,sin demoler,NUOVA
+always_translate,superficie magnetica,magnetic surface,surface magnétique,magnetische Oberfläche,superficie magnética,NUOVA
+always_translate,sistema magnetico,magnetic surface system,système magnétique,magnetisches Oberflächensystem,sistema magnético,invariata
+always_translate,superficie tecnica,technical surface,surface technique,technische Oberfläche,superficie técnica,"completata (mancavano FR, DE, ES)"
+always_translate,pavimento,floor,sol,Bodenbelag,pavimento,invariata
+always_translate,rivestimento,wall tile / wall cladding,revêtement mural,Wandverkleidung,revestimiento mural,"EN CORRETTA (in USA ""wallcovering"" indica la carta da parati vinilica)"
+always_translate,lastra,slab / porcelain slab,dalle,Platte,placa,EN precisata
+always_translate,gres porcellanato,porcelain tile,grès cérame,Feinsteinzeug,gres porcelánico,"EN CORRETTA (era ""Porcelain Slab""; ""porcelain stoneware"" è inglese europeo, in USA si dice ""porcelain tile"")"
+always_translate,ceramica,ceramic tile,carrelage,Keramikfliese,baldosa cerámica,invariata
+always_translate,pietra naturale,natural stone,pierre naturelle,Naturstein,piedra natural,invariata
+always_translate,carta da parati,wallpaper,papier peint,Tapete,papel pintado,invariata
+always_translate,riutilizzabile,reusable,réutilisable,wiederverwendbar,reutilizable,invariata
+always_translate,rimovibile,removable,amovible,demontierbar,desmontable,invariata
+always_translate,riconfigurabile,reconfigurable,reconfigurable,neu konfigurierbar,reconfigurable,DE corretta (si scrive staccato)
+always_translate,News (voce di menu),News,Actualités,News,Noticias,NUOVA
+always_translate,P. IVA (footer),VAT No.,N° TVA,USt-IdNr.,N.º IVA,NUOVA
+never_translate_case_sensitive,MagFace®,MagFace®,MagFace®,MagFace®,MagFace®,sez. 5.1 (forma senza ® inclusa)
+never_translate_case_sensitive,MagFace,MagFace,MagFace,MagFace,MagFace,sez. 5.1 (forma senza ® inclusa)
+never_translate_case_sensitive,MagFlexMat®,MagFlexMat®,MagFlexMat®,MagFlexMat®,MagFlexMat®,sez. 5.1 (forma senza ® inclusa)
+never_translate_case_sensitive,MagMixture Paint®,MagMixture Paint®,MagMixture Paint®,MagMixture Paint®,MagMixture Paint®,sez. 5.1 (forma senza ® inclusa)
+never_translate_case_sensitive,MagMixture Plaster®,MagMixture Plaster®,MagMixture Plaster®,MagMixture Plaster®,MagMixture Plaster®,sez. 5.1 (forma senza ® inclusa)
+never_translate_case_sensitive,MagTaping®,MagTaping®,MagTaping®,MagTaping®,MagTaping®,sez. 5.1 (forma senza ® inclusa)
+never_translate_case_sensitive,MagFiller®,MagFiller®,MagFiller®,MagFiller®,MagFiller®,sez. 5.1 (forma senza ® inclusa)
+never_translate_case_sensitive,MagFace Academy,MagFace Academy,MagFace Academy,MagFace Academy,MagFace Academy,sez. 5.1 (forma senza ® inclusa)
+never_translate_case_sensitive,Innovation Lab,Innovation Lab,Innovation Lab,Innovation Lab,Innovation Lab,sez. 5.1 (forma senza ® inclusa)
+never_translate_case_sensitive,Showroom License,Showroom License,Showroom License,Showroom License,Showroom License,sez. 5.1 (forma senza ® inclusa)
+never_translate_case_sensitive,Bronze License,Bronze License,Bronze License,Bronze License,Bronze License,sez. 5.1 (forma senza ® inclusa)
+never_translate_case_sensitive,Silver License,Silver License,Silver License,Silver License,Silver License,sez. 5.1 (forma senza ® inclusa)
+never_translate_case_sensitive,Gold License,Gold License,Gold License,Gold License,Gold License,sez. 5.1 (forma senza ® inclusa)

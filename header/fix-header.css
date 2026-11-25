@@ -1,0 +1,8 @@
+/* Header: posizione corretta dal primo disegno, senza dipendere dallo sticky JavaScript di Elementor (18/11/2026).
+   Il layout in flusso resta quello originale (margin-top:-85px sul contenitore). Quando lo sticky JS non e' (ancora)
+   attivo, l'header viene riportato visivamente in alto con uno spostamento relativo e la location resta sticky. */
+.elementor-location-header{position:sticky;top:0;z-index:99}
+.custom-scroll-header:not(.elementor-sticky),.magface-mobile-header:not(.elementor-sticky){position:relative;top:85px}
+@media (max-width:1365px){.elementor-location-header{z-index:999999}}
+body.admin-bar .elementor-location-header{top:32px}
+@media (max-width:782px){body.admin-bar .elementor-location-header{top:46px}}

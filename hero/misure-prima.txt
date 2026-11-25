@@ -1,0 +1,16 @@
+1920  slide 1 87a2e5d font 120px | titolo 402→642 | sottotitolo top 713 | bottone top 651 | SOVRAPPOSIZIONE titolo/sotto-bottone: no (-9)
+1920  slide 2 17fc8f6 font 120px | titolo 402→642 | sottotitolo top 677 | bottone top 651 | SOVRAPPOSIZIONE titolo/sotto-bottone: no (-9)
+1920  slide 3 8106f44 font 120px | titolo 402→642 | sottotitolo top 695 | bottone top 651 | SOVRAPPOSIZIONE titolo/sotto-bottone: no (-9)
+1920  slide 4 482282b font 120px | titolo 402→642 | sottotitolo top 695 | bottone top 651 | SOVRAPPOSIZIONE titolo/sotto-bottone: no (-9)
+1353  slide 1 87a2e5d font 120px | titolo 223→583 | sottotitolo top 679 | bottone top 617 | SOVRAPPOSIZIONE titolo/sotto-bottone: no (-34)
+1353  slide 2 17fc8f6 font 120px | titolo 223→583 | sottotitolo top 643 | bottone top 617 | SOVRAPPOSIZIONE titolo/sotto-bottone: no (-34)
+1353  slide 3 8106f44 font 120px | titolo 366→606 | sottotitolo top 643 | bottone top 617 | SOVRAPPOSIZIONE titolo/sotto-bottone: no (-11)
+1353  slide 4 482282b font 120px | titolo 84→564 | sottotitolo top 661 | bottone top 617 | SOVRAPPOSIZIONE titolo/sotto-bottone: no (-53)
+1024  slide 1 87a2e5d font 60px | titolo 540→660 | sottotitolo top 638 | bottone top 630 | SOVRAPPOSIZIONE titolo/sotto-bottone: 30px
+1024  slide 2 17fc8f6 font 60px | titolo 489→609 | sottotitolo top 620 | bottone top 594 | SOVRAPPOSIZIONE titolo/sotto-bottone: 15px
+1024  slide 3 8106f44 font 60px | titolo 489→609 | sottotitolo top 620 | bottone top 594 | SOVRAPPOSIZIONE titolo/sotto-bottone: 15px
+1024  slide 4 482282b font 60px | titolo 489→609 | sottotitolo top 638 | bottone top 594 | SOVRAPPOSIZIONE titolo/sotto-bottone: 15px
+375   slide 1 87a2e5d font 30px | titolo 344→434 | sottotitolo top 456 | bottone top 558 | SOVRAPPOSIZIONE titolo/sotto-bottone: no (-22)
+375   slide 2 17fc8f6 font 30px | titolo 292→382 | sottotitolo top 420 | bottone top 558 | SOVRAPPOSIZIONE titolo/sotto-bottone: no (-38)
+375   slide 3 8106f44 font 30px | titolo 355→415 | sottotitolo top 438 | bottone top 558 | SOVRAPPOSIZIONE titolo/sotto-bottone: no (-23)
+375   slide 4 482282b font 30px | titolo 344→434 | sottotitolo top 456 | bottone top 558 | SOVRAPPOSIZIONE titolo/sotto-bottone: no (-22)

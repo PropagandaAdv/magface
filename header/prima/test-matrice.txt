@@ -1,0 +1,12 @@
+1920  home                   PRIMA first 54 hdr -85 scroll600 hdr -685 | DOPO first 54 hdr 0 scroll600 hdr 0 | overflowX 0 0 OK
+1920  tecnologia/            PRIMA first 54 hdr -85 scroll600 hdr -685 | DOPO first 54 hdr 0 scroll600 hdr 0 | overflowX 0 0 OK
+1920  contatti/              PRIMA first 54 hdr -85 scroll600 hdr -685 | DOPO first 54 hdr 0 scroll600 hdr 0 | overflowX 0 0 OK
+1920  2026/11/06/floorinsite PRIMA first 54 hdr -85 scroll600 hdr -685 | DOPO first 54 hdr 0 scroll600 hdr 0 | overflowX 0 0 OK
+1024  home                   PRIMA first 0 hdr -85 scroll600 hdr -685 | DOPO first -7 hdr 0 scroll600 hdr 0 | overflowX 0 0 DIFFERENZA
+1024  tecnologia/            PRIMA first 0 hdr -85 scroll600 hdr -685 | DOPO first -7 hdr 0 scroll600 hdr 0 | overflowX 0 0 DIFFERENZA
+1024  contatti/              PRIMA first 0 hdr -85 scroll600 hdr -685 | DOPO first -7 hdr 0 scroll600 hdr 0 | overflowX 0 0 DIFFERENZA
+1024  2026/11/06/floorinsite PRIMA first 0 hdr -85 scroll600 hdr -685 | DOPO first -7 hdr 0 scroll600 hdr 0 | overflowX 0 0 DIFFERENZA
+375   home                   PRIMA first -5 hdr -85 scroll600 hdr -685 | DOPO first -5 hdr 0 scroll600 hdr 0 | overflowX 0 0 OK
+375   tecnologia/            PRIMA first 25 hdr -85 scroll600 hdr -685 | DOPO first 25 hdr 0 scroll600 hdr 0 | overflowX 0 0 OK
+375   contatti/              PRIMA first 25 hdr -85 scroll600 hdr -685 | DOPO first 25 hdr 0 scroll600 hdr 0 | overflowX 0 0 OK
+375   2026/11/06/floorinsite PRIMA first 25 hdr -85 scroll600 hdr -685 | DOPO first 25 hdr 0 scroll600 hdr 0 | overflowX 0 0 OK

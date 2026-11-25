@@ -1,0 +1,604 @@
+{
+ "Home": {
+  "id": 137,
+  "it": {
+   "title": "MagFace® | Posa magnetica a secco: pavimenti e rivestimenti",
+   "description": null,
+   "title_declared": 59,
+   "desc_declared": null,
+   "title_len": 59,
+   "desc_len": null
+  },
+  "en": {
+   "title": "MagFace® | Dry magnetic installation for floors and walls",
+   "description": "MagFace®: patented dry magnetic installation for floors and walls. Porcelain tile and slabs set without mortar or adhesive, replaced with no demolition.",
+   "title_declared": 57,
+   "desc_declared": 152,
+   "title_len": 57,
+   "desc_len": 152
+  },
+  "fr": {
+   "title": "MagFace® | Pose magnétique à sec pour sols et murs",
+   "description": "MagFace® est le système breveté de pose magnétique à sec pour sols et murs : dalles en grès cérame et pierre posées sans colle, remplacées sans démolition.",
+   "title_declared": 50,
+   "desc_declared": 155,
+   "title_len": 50,
+   "desc_len": 155
+  },
+  "de": {
+   "title": "MagFace® | Magnetische Trockenverlegung für Boden und Wand",
+   "description": "MagFace® ist das patentierte System zur magnetischen Trockenverlegung für Boden und Wand: Feinsteinzeug ohne Kleber verlegt, ohne Abriss ausgetauscht.",
+   "title_declared": 58,
+   "desc_declared": 150,
+   "title_len": 58,
+   "desc_len": 150
+  },
+  "es": {
+   "title": "MagFace® | Colocación magnética en seco: suelos y paredes",
+   "description": "MagFace® es el sistema patentado de colocación magnética en seco para suelos y paredes: placas de gres y piedra sin adhesivo, sustituibles sin obras.",
+   "title_declared": 57,
+   "desc_declared": 149,
+   "title_len": 57,
+   "desc_len": 149
+  }
+ },
+ "Tecnologia": {
+  "id": 181,
+  "it": {
+   "title": "Tecnologia di posa magnetica a secco brevettata | MagFace®",
+   "description": "Uno strato magnetico di 1 mm sul retro di ogni lastra: gres porcellanato e pietra si posano senza colla, si rimuovono e si riutilizzano. Brevettato.",
+   "title_declared": 58,
+   "desc_declared": 148,
+   "title_len": 58,
+   "desc_len": 148
+  },
+  "en": {
+   "title": "Patented dry magnetic installation technology | MagFace®",
+   "description": "A 1 mm magnetic layer on the back of every slab. Porcelain tile and stone install without mortar or adhesive, then lift out and reuse. Patented technology.",
+   "title_declared": 56,
+   "desc_declared": 155,
+   "title_len": 56,
+   "desc_len": 155
+  },
+  "fr": {
+   "title": "Technologie brevetée de pose magnétique à sec | MagFace®",
+   "description": "Une couche magnétique de 1 mm au dos de chaque dalle : grès cérame et pierre se posent sans colle, se déposent et se réutilisent. Technologie brevetée.",
+   "title_declared": 56,
+   "desc_declared": 151,
+   "title_len": 56,
+   "desc_len": 151
+  },
+  "de": {
+   "title": "Technologie der magnetischen Trockenverlegung | MagFace®",
+   "description": "Eine 1 mm dünne Magnetschicht auf jeder Plattenrückseite: Feinsteinzeug und Naturstein ohne Kleber verlegen, rückbauen, wiederverwenden. Patentiert.",
+   "title_declared": 56,
+   "desc_declared": 148,
+   "title_len": 56,
+   "desc_len": 148
+  },
+  "es": {
+   "title": "Tecnología de colocación magnética en seco | MagFace®",
+   "description": "Una capa magnética de 1 mm en el reverso de cada placa: gres porcelánico y piedra se colocan sin adhesivo, se retiran y se reutilizan. Patentado.",
+   "title_declared": 53,
+   "desc_declared": 145,
+   "title_len": 53,
+   "desc_len": 145
+  }
+ },
+ "Superfici magnetiche": {
+  "id": 202,
+  "it": {
+   "title": "Superfici magnetiche per pavimenti e rivestimenti | MagFace®",
+   "description": "Gres porcellanato, pietra naturale e superfici decorative con base magnetica MagFace®: lastre fino a 160×320 cm, pronte per la posa a secco.",
+   "title_declared": 60,
+   "desc_declared": 140,
+   "title_len": 60,
+   "desc_len": 140
+  },
+  "en": {
+   "title": "Magnetic surfaces for floors and walls | MagFace®",
+   "description": "Porcelain tile, natural stone and decorative surfaces with a MagFace® magnetic back. Slabs up to 160×320 cm, ready for dry installation on site.",
+   "title_declared": 49,
+   "desc_declared": 144,
+   "title_len": 49,
+   "desc_len": 144
+  },
+  "fr": {
+   "title": "Surfaces magnétiques pour sols et murs | MagFace®",
+   "description": "Grès cérame, pierre naturelle et surfaces décoratives à dos magnétique MagFace® : dalles jusqu'à 160×320 cm, prêtes pour la pose à sec au sol et au mur.",
+   "title_declared": 49,
+   "desc_declared": 152,
+   "title_len": 49,
+   "desc_len": 152
+  },
+  "de": {
+   "title": "Magnetische Oberflächen für Boden und Wand | MagFace®",
+   "description": "Feinsteinzeug, Naturstein und Dekorflächen mit MagFace® Magnetrücken: Platten bis 160×320 cm, bereit zur magnetischen Trockenverlegung vor Ort.",
+   "title_declared": 53,
+   "desc_declared": 143,
+   "title_len": 53,
+   "desc_len": 143
+  },
+  "es": {
+   "title": "Superficies magnéticas para suelos y paredes | MagFace®",
+   "description": "Gres porcelánico, piedra natural y superficies decorativas con reverso magnético MagFace®: placas de hasta 160×320 cm, listas para la colocación en seco.",
+   "title_declared": 55,
+   "desc_declared": 153,
+   "title_len": 55,
+   "desc_len": 153
+  }
+ },
+ "Applicazioni": {
+  "id": 213,
+  "it": {
+   "title": "Applicazioni: retail, uffici, hospitality, casa | MagFace®",
+   "description": "Negozi, showroom, uffici, hotel, fiere e abitazioni: con la posa magnetica a secco MagFace® le superfici cambiano in poche ore, senza demolizioni né fermi.",
+   "title_declared": 58,
+   "desc_declared": 155,
+   "title_len": 58,
+   "desc_len": 155
+  },
+  "en": {
+   "title": "Applications: retail, office, hospitality, home | MagFace®",
+   "description": "Stores, showrooms, offices, hotels, trade shows and homes: with MagFace® dry magnetic installation, surfaces change in hours, with no demolition.",
+   "title_declared": 58,
+   "desc_declared": 145,
+   "title_len": 58,
+   "desc_len": 145
+  },
+  "fr": {
+   "title": "Applications : retail, bureaux, hôtels, maison | MagFace®",
+   "description": "Boutiques, showrooms, bureaux, hôtels, salons et logements : avec la pose magnétique à sec MagFace®, les surfaces changent en quelques heures.",
+   "title_declared": 57,
+   "desc_declared": 142,
+   "title_len": 57,
+   "desc_len": 142
+  },
+  "de": {
+   "title": "Anwendungen: Retail, Büro, Hotellerie, Wohnen | MagFace®",
+   "description": "Läden, Showrooms, Büros, Hotels, Messen und Wohnräume: Mit der magnetischen Trockenverlegung von MagFace® wechseln Flächen in Stunden, ohne Abriss.",
+   "title_declared": 56,
+   "desc_declared": 147,
+   "title_len": 56,
+   "desc_len": 147
+  },
+  "es": {
+   "title": "Aplicaciones: retail, oficinas, hostelería, hogar | MagFace®",
+   "description": "Tiendas, showrooms, oficinas, hoteles, ferias y viviendas: con la colocación magnética en seco MagFace®, las superficies cambian en horas, sin obras.",
+   "title_declared": 60,
+   "desc_declared": 149,
+   "title_len": 60,
+   "desc_len": 149
+  }
+ },
+ "Prestazioni e vantaggi": {
+  "id": 175,
+  "it": {
+   "title": "Prestazioni e vantaggi della posa magnetica | MagFace®",
+   "description": "Fino al 70% di tempi di posa in meno, nessun tempo di asciugatura, superfici riutilizzabili. Classificazione Heavy Duty ASTM C627. MagFace® in numeri.",
+   "title_declared": 54,
+   "desc_declared": 150,
+   "title_len": 54,
+   "desc_len": 150
+  },
+  "en": {
+   "title": "Benefits of dry magnetic installation | MagFace®",
+   "description": "Up to 70% faster installation, no curing time, reusable surfaces. Heavy Duty rating under ASTM C627. MagFace® performance, measured and documented.",
+   "title_declared": 48,
+   "desc_declared": 147,
+   "title_len": 48,
+   "desc_len": 147
+  },
+  "fr": {
+   "title": "Performances et avantages de la pose magnétique | MagFace®",
+   "description": "Jusqu'à 70 % de temps de pose en moins, aucun temps de séchage, des surfaces réutilisables. Classement Heavy Duty ASTM C627. MagFace® en chiffres.",
+   "title_declared": 58,
+   "desc_declared": 146,
+   "title_len": 58,
+   "desc_len": 146
+  },
+  "de": {
+   "title": "Vorteile der magnetischen Trockenverlegung | MagFace®",
+   "description": "Bis zu 70 % kürzere Verlegezeit, keine Trocknungszeit, wiederverwendbare Flächen. Heavy-Duty-Einstufung nach ASTM C627. MagFace® Leistung in Zahlen.",
+   "title_declared": 53,
+   "desc_declared": 148,
+   "title_len": 53,
+   "desc_len": 148
+  },
+  "es": {
+   "title": "Ventajas de la colocación magnética en seco | MagFace®",
+   "description": "Hasta un 70 % menos de tiempo de colocación, sin tiempos de secado, superficies reutilizables. Clasificación Heavy Duty ASTM C627. MagFace® en cifras.",
+   "title_declared": 54,
+   "desc_declared": 150,
+   "title_len": 54,
+   "desc_len": 150
+  }
+ },
+ "Licensing": {
+  "id": 251,
+  "it": {
+   "title": "Licenze per produttori ceramici | MagFace®",
+   "description": "Integrate la tecnologia magnetica brevettata MagFace® nelle vostre lastre. Tre livelli, Bronze, Silver e Gold, per produttori di ceramica e pietra.",
+   "title_declared": 42,
+   "desc_declared": 147,
+   "title_len": 42,
+   "desc_len": 147
+  },
+  "en": {
+   "title": "Licensing for tile manufacturers | MagFace®",
+   "description": "Build patented MagFace® magnetic technology into your porcelain slabs. Three license levels, Bronze, Silver and Gold, for tile and stone manufacturers.",
+   "title_declared": 43,
+   "desc_declared": 151,
+   "title_len": 43,
+   "desc_len": 151
+  },
+  "fr": {
+   "title": "Licences pour fabricants de carrelage | MagFace®",
+   "description": "Intégrez la technologie magnétique brevetée MagFace® à vos dalles. Trois niveaux de licence, Bronze, Silver et Gold, pour fabricants de céramique.",
+   "title_declared": 48,
+   "desc_declared": 146,
+   "title_len": 48,
+   "desc_len": 146
+  },
+  "de": {
+   "title": "Lizenzen für Fliesenhersteller | MagFace®",
+   "description": "Integrieren Sie die patentierte Magnettechnologie von MagFace® in Ihre Platten. Drei Stufen, Bronze, Silver und Gold, für Fliesen- und Steinhersteller.",
+   "title_declared": 41,
+   "desc_declared": 151,
+   "title_len": 41,
+   "desc_len": 151
+  },
+  "es": {
+   "title": "Licencias para fabricantes cerámicos | MagFace®",
+   "description": "Integre la tecnología magnética patentada MagFace® en sus placas. Tres niveles, Bronze, Silver y Gold, para fabricantes de cerámica y piedra.",
+   "title_declared": 47,
+   "desc_declared": 141,
+   "title_len": 47,
+   "desc_len": 141
+  }
+ },
+ "MagFace Academy": {
+  "id": 228,
+  "it": {
+   "title": "MagFace Academy | Formazione sulla posa magnetica a secco",
+   "description": "Corsi pratici per posatori, rivenditori e progettisti: posa magnetica a secco, taglio e foratura delle lastre, finitura dei giunti con MagFiller®.",
+   "title_declared": 57,
+   "desc_declared": 146,
+   "title_len": 57,
+   "desc_len": 146
+  },
+  "en": {
+   "title": "MagFace Academy | Dry magnetic installation training",
+   "description": "Hands-on courses for installers, dealers and designers: dry magnetic installation, cutting and drilling slabs, and finishing joints with MagFiller®.",
+   "title_declared": 52,
+   "desc_declared": 148,
+   "title_len": 52,
+   "desc_len": 148
+  },
+  "fr": {
+   "title": "MagFace Academy | Formation à la pose magnétique à sec",
+   "description": "Formations pratiques pour poseurs, revendeurs et prescripteurs : pose magnétique à sec, découpe et perçage des dalles, finition des joints avec MagFiller®.",
+   "title_declared": 54,
+   "desc_declared": 155,
+   "title_len": 54,
+   "desc_len": 155
+  },
+  "de": {
+   "title": "MagFace Academy | Schulung zur magnetischen Trockenverlegung",
+   "description": "Praxiskurse für Fliesenleger, Händler und Planer: magnetische Trockenverlegung, Zuschnitt und Bohren der Platten, Fugenabschluss mit MagFiller®.",
+   "title_declared": 60,
+   "desc_declared": 144,
+   "title_len": 60,
+   "desc_len": 144
+  },
+  "es": {
+   "title": "MagFace Academy | Formación en colocación magnética en seco",
+   "description": "Cursos prácticos para colocadores, distribuidores y prescriptores: colocación magnética en seco, corte y taladrado de placas y juntas con MagFiller®.",
+   "title_declared": 59,
+   "desc_declared": 149,
+   "title_len": 59,
+   "desc_len": 149
+  }
+ },
+ "Partner tecnici": {
+  "id": 257,
+  "it": {
+   "title": "Partner tecnici della posa magnetica a secco | MagFace®",
+   "description": "Produttori, fornitori e aziende tecniche che lavorano con MagFace® per la posa magnetica a secco di gres porcellanato, pietra e superfici decorative.",
+   "title_declared": 55,
+   "desc_declared": 149,
+   "title_len": 55,
+   "desc_len": 149
+  },
+  "en": {
+   "title": "Technical partners for dry magnetic installation | MagFace®",
+   "description": "Manufacturers, suppliers and technical companies working with MagFace® to bring dry magnetic installation to porcelain tile, stone and decorative surfaces.",
+   "title_declared": 59,
+   "desc_declared": 155,
+   "title_len": 59,
+   "desc_len": 155
+  },
+  "fr": {
+   "title": "Partenaires techniques : pose magnétique à sec | MagFace®",
+   "description": "Fabricants, fournisseurs et entreprises techniques qui travaillent avec MagFace® pour la pose magnétique à sec du grès cérame, de la pierre et des décors.",
+   "title_declared": 57,
+   "desc_declared": 154,
+   "title_len": 57,
+   "desc_len": 154
+  },
+  "de": {
+   "title": "Technische Partner der Trockenverlegung | MagFace®",
+   "description": "Hersteller, Zulieferer und Technikpartner, die mit MagFace® die magnetische Trockenverlegung für Feinsteinzeug, Naturstein und Dekorflächen umsetzen.",
+   "title_declared": 50,
+   "desc_declared": 149,
+   "title_len": 50,
+   "desc_len": 149
+  },
+  "es": {
+   "title": "Socios técnicos: colocación magnética en seco | MagFace®",
+   "description": "Fabricantes, proveedores y empresas técnicas que trabajan con MagFace® en la colocación magnética en seco de gres porcelánico, piedra y decorados.",
+   "title_declared": 56,
+   "desc_declared": 146,
+   "title_len": 56,
+   "desc_len": 146
+  }
+ },
+ "Certificazioni": {
+  "id": 161,
+  "it": {
+   "title": "Certificazioni: ASTM C627, EN 13501-1, UL 94 | MagFace®",
+   "description": "Heavy Duty al Robinson Test ASTM C627-10, reazione al fuoco EN 13501-1, autoestinguenza UL 94: i report di prova del sistema MagFace®, da scaricare.",
+   "title_declared": 55,
+   "desc_declared": 148,
+   "title_len": 55,
+   "desc_len": 148
+  },
+  "en": {
+   "title": "Certifications: ASTM C627, EN 13501-1, UL 94 | MagFace®",
+   "description": "Heavy Duty rating in the ASTM C627-10 Robinson test, EN 13501-1 fire classification, UL 94 flammability. Download the MagFace® test reports.",
+   "title_declared": 55,
+   "desc_declared": 140,
+   "title_len": 55,
+   "desc_len": 140
+  },
+  "fr": {
+   "title": "Certifications : ASTM C627, EN 13501-1, UL 94 | MagFace®",
+   "description": "Classement Heavy Duty au test Robinson ASTM C627-10, réaction au feu EN 13501-1, inflammabilité UL 94. Téléchargez les rapports d'essai MagFace®.",
+   "title_declared": 56,
+   "desc_declared": 145,
+   "title_len": 56,
+   "desc_len": 145
+  },
+  "de": {
+   "title": "Zertifizierungen: ASTM C627, EN 13501-1, UL 94 | MagFace®",
+   "description": "Heavy-Duty-Einstufung im Robinson-Test ASTM C627-10, Brandverhalten nach EN 13501-1, Entflammbarkeit nach UL 94. MagFace® Prüfberichte zum Download.",
+   "title_declared": 57,
+   "desc_declared": 148,
+   "title_len": 57,
+   "desc_len": 148
+  },
+  "es": {
+   "title": "Certificaciones: ASTM C627, EN 13501-1, UL 94 | MagFace®",
+   "description": "Clasificación Heavy Duty en el ensayo Robinson ASTM C627-10, reacción al fuego EN 13501-1, inflamabilidad UL 94. Descargue los informes de ensayo MagFace®.",
+   "title_declared": 56,
+   "desc_declared": 155,
+   "title_len": 56,
+   "desc_len": 155
+  }
+ },
+ "MagFace Concept House": {
+  "id": 200,
+  "it": {
+   "title": "MagFace Concept House | 110 m², 24 ore, zero demolizioni",
+   "description": "Il progetto MagFace® Concept House in numeri: 110 m², 24 ore, zero demolizioni. Posa magnetica a secco a pavimento e parete, con video e interviste.",
+   "title_declared": 56,
+   "desc_declared": 148,
+   "title_len": 56,
+   "desc_len": 148
+  },
+  "en": {
+   "title": "MagFace Concept House | 110 m², 24 hours, zero demolition",
+   "description": "The MagFace® Concept House by the numbers: 110 m², 24 hours, zero demolition. Dry magnetic installation on floors and walls, with video and interviews.",
+   "title_declared": 57,
+   "desc_declared": 151,
+   "title_len": 57,
+   "desc_len": 151
+  },
+  "fr": {
+   "title": "MagFace Concept House | 110 m², 24 heures, zéro démolition",
+   "description": "Le projet MagFace® Concept House en chiffres : 110 m², 24 heures, zéro démolition. Pose magnétique à sec au sol et au mur, en vidéos et interviews.",
+   "title_declared": 58,
+   "desc_declared": 147,
+   "title_len": 58,
+   "desc_len": 147
+  },
+  "de": {
+   "title": "MagFace Concept House | 110 m², 24 Stunden, kein Abriss",
+   "description": "Das MagFace® Concept House in Zahlen: 110 m², 24 Stunden, kein Abriss. Magnetische Trockenverlegung an Boden und Wand, mit Videos und Interviews.",
+   "title_declared": 55,
+   "desc_declared": 145,
+   "title_len": 55,
+   "desc_len": 145
+  },
+  "es": {
+   "title": "MagFace Concept House | 110 m², 24 horas, cero demoliciones",
+   "description": "El proyecto MagFace® Concept House en cifras: 110 m², 24 horas, cero demoliciones. Colocación magnética en seco en suelos y paredes, vídeo y entrevistas.",
+   "title_declared": 59,
+   "desc_declared": 153,
+   "title_len": 59,
+   "desc_len": 153
+  }
+ },
+ "Chi siamo": {
+  "id": 262,
+  "it": {
+   "title": "Chi siamo | Bassi Group International dal 2002 | MagFace®",
+   "description": "MagFace® nasce da Bassi Group International, specialista di sistemi magnetici dal 2002. Fondatore e inventore: Andrea Bassi. Brevetto internazionale 2015.",
+   "title_declared": 57,
+   "desc_declared": 154,
+   "title_len": 57,
+   "desc_len": 154
+  },
+  "en": {
+   "title": "About us | Bassi Group International since 2002 | MagFace®",
+   "description": "MagFace® comes from Bassi Group International, magnetic systems specialist since 2002. Founder and inventor: Andrea Bassi. International patent, 2015.",
+   "title_declared": 58,
+   "desc_declared": 150,
+   "title_len": 58,
+   "desc_len": 150
+  },
+  "fr": {
+   "title": "À propos | Bassi Group International depuis 2002 | MagFace®",
+   "description": "MagFace® est né chez Bassi Group International, spécialiste des systèmes magnétiques depuis 2002. Fondateur et inventeur : Andrea Bassi. Brevet de 2015.",
+   "title_declared": 59,
+   "desc_declared": 152,
+   "title_len": 59,
+   "desc_len": 152
+  },
+  "de": {
+   "title": "Über uns | Bassi Group International seit 2002 | MagFace®",
+   "description": "MagFace® stammt von Bassi Group International, Spezialist für Magnetsysteme seit 2002. Gründer und Erfinder: Andrea Bassi. Internationales Patent 2015.",
+   "title_declared": 57,
+   "desc_declared": 151,
+   "title_len": 57,
+   "desc_len": 151
+  },
+  "es": {
+   "title": "Quiénes somos | Bassi Group International, 2002 | MagFace®",
+   "description": "MagFace® nace en Bassi Group International, especialista en sistemas magnéticos desde 2002. Fundador e inventor: Andrea Bassi. Patente internacional 2015.",
+   "title_declared": 58,
+   "desc_declared": 154,
+   "title_len": 58,
+   "desc_len": 154
+  }
+ },
+ "News": {
+  "id": 864,
+  "it": {
+   "title": "News, fiere ed eventi sulla posa magnetica | MagFace®",
+   "description": "News ed eventi MagFace®: fiere, progetti realizzati, partnership e novità sulla posa magnetica a secco brevettata per pavimenti e rivestimenti.",
+   "title_declared": 53,
+   "desc_declared": 143,
+   "title_len": 53,
+   "desc_len": 143
+  },
+  "en": {
+   "title": "News, trade shows and events | MagFace®",
+   "description": "MagFace® news and events: trade shows, completed projects, partnerships and updates on patented dry magnetic installation for floors and walls.",
+   "title_declared": 39,
+   "desc_declared": 143,
+   "title_len": 39,
+   "desc_len": 143
+  },
+  "fr": {
+   "title": "Actualités, salons et événements | MagFace®",
+   "description": "Actualités MagFace® : salons, projets réalisés, partenariats et nouveautés sur la pose magnétique à sec brevetée pour sols et revêtements muraux.",
+   "title_declared": 43,
+   "desc_declared": 145,
+   "title_len": 43,
+   "desc_len": 145
+  },
+  "de": {
+   "title": "News, Messen und Events | MagFace®",
+   "description": "MagFace® News: Messen, realisierte Projekte, Partnerschaften und Neuheiten zur patentierten magnetischen Trockenverlegung für Boden und Wand.",
+   "title_declared": 34,
+   "desc_declared": 141,
+   "title_len": 34,
+   "desc_len": 141
+  },
+  "es": {
+   "title": "Noticias, ferias y eventos | MagFace®",
+   "description": "Noticias MagFace®: ferias, proyectos realizados, alianzas y novedades sobre la colocación magnética en seco patentada para suelos y paredes.",
+   "title_declared": 37,
+   "desc_declared": 140,
+   "title_len": 37,
+   "desc_len": 140
+  }
+ },
+ "FAQ": {
+  "id": 321,
+  "it": {
+   "title": "Domande frequenti sulla posa magnetica a secco | MagFace®",
+   "description": "51 risposte sulla posa magnetica a secco MagFace®: supporti, formati, carichi, bagni e docce, rimozione, sicurezza magnetica, certificazioni e licenze.",
+   "title_declared": 57,
+   "desc_declared": 151,
+   "title_len": 57,
+   "desc_len": 151
+  },
+  "en": {
+   "title": "Dry magnetic installation FAQ | MagFace®",
+   "description": "51 answers on MagFace® dry magnetic installation: substrates, formats, loads, bathrooms and showers, removal, magnetic safety, certifications, licensing.",
+   "title_declared": 40,
+   "desc_declared": 153,
+   "title_len": 40,
+   "desc_len": 153
+  },
+  "fr": {
+   "title": "Questions fréquentes sur la pose magnétique à sec | MagFace®",
+   "description": "51 réponses sur la pose magnétique à sec MagFace® : supports, formats, charges, salles de bains, dépose, sécurité magnétique, certifications et licences.",
+   "title_declared": 60,
+   "desc_declared": 153,
+   "title_len": 60,
+   "desc_len": 153
+  },
+  "de": {
+   "title": "FAQ zur magnetischen Trockenverlegung | MagFace®",
+   "description": "51 Antworten zur magnetischen Trockenverlegung von MagFace®: Untergründe, Formate, Lasten, Bad und Dusche, Rückbau, Sicherheit, Zertifikate, Lizenzen.",
+   "title_declared": 48,
+   "desc_declared": 150,
+   "title_len": 48,
+   "desc_len": 150
+  },
+  "es": {
+   "title": "FAQ sobre colocación magnética en seco | MagFace®",
+   "description": "51 respuestas sobre la colocación magnética en seco MagFace®: soportes, formatos, cargas, baños y duchas, retirada, seguridad, certificaciones y licencias.",
+   "title_declared": 49,
+   "desc_declared": 155,
+   "title_len": 49,
+   "desc_len": 155
+  }
+ },
+ "Contatti": {
+  "id": 270,
+  "it": {
+   "title": "Contatti | MagFace®, Castelnovo di Sotto (Reggio Emilia)",
+   "description": "Contattate MagFace® per progetti, licenze e formazione. Bassi Group International Srl, Piazzale degli Alberi 7, 42024 Castelnovo di Sotto (RE), Italia.",
+   "title_declared": 56,
+   "desc_declared": 151,
+   "title_len": 56,
+   "desc_len": 151
+  },
+  "en": {
+   "title": "Contact | MagFace®, Reggio Emilia, Italy",
+   "description": "Contact MagFace® about projects, licensing and training. Bassi Group International Srl, Piazzale degli Alberi 7, 42024 Castelnovo di Sotto (RE), Italy.",
+   "title_declared": 40,
+   "desc_declared": 151,
+   "title_len": 40,
+   "desc_len": 151
+  },
+  "fr": {
+   "title": "Contact | MagFace®, Reggio Emilia, Italie",
+   "description": "Contactez MagFace® pour vos projets, licences et formations. Bassi Group International Srl, Piazzale degli Alberi 7, 42024 Castelnovo di Sotto, Italie.",
+   "title_declared": 41,
+   "desc_declared": 151,
+   "title_len": 41,
+   "desc_len": 151
+  },
+  "de": {
+   "title": "Kontakt | MagFace®, Reggio Emilia, Italien",
+   "description": "Kontaktieren Sie MagFace® zu Projekten, Lizenzen und Schulungen. Bassi Group International Srl, Piazzale degli Alberi 7, 42024 Castelnovo di Sotto.",
+   "title_declared": 42,
+   "desc_declared": 147,
+   "title_len": 42,
+   "desc_len": 147
+  },
+  "es": {
+   "title": "Contacto | MagFace®, Reggio Emilia, Italia",
+   "description": "Contacte con MagFace® para proyectos, licencias y formación. Bassi Group International Srl, Piazzale degli Alberi 7, 42024 Castelnovo di Sotto, Italia.",
+   "title_declared": 42,
+   "desc_declared": 151,
+   "title_len": 42,
+   "desc_len": 151
+  }
+ }
+}

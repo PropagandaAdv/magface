@@ -1,0 +1,10 @@
+1920  home         PRIMA first 54 hdr -85 scroll -785 | DOPO first 54 hdr 0 h 139 scroll 0 scrolledClass true ovX 0 dropdown null | OK
+1366  home         PRIMA first 28 hdr -85 scroll -785 | DOPO first 28 hdr 0 h 113 scroll 0 scrolledClass true ovX 0 dropdown null | OK
+1365  tecnologia/  PRIMA first 28 hdr -85 scroll -785 | DOPO first 28 hdr 0 h 113 scroll 0 scrolledClass true ovX 0 dropdown null | OK
+1280  home         PRIMA first 24 hdr -85 scroll -785 | DOPO first 24 hdr 0 h 109 scroll 0 scrolledClass true ovX 0 dropdown COPERTO da elementor-element elementor-element-0f14 | OK
+1024  tecnologia/  PRIMA first 0 hdr -85 scroll -785 | DOPO first 0 hdr 0 h 78 scroll 0 scrolledClass false ovX 0 dropdown COPERTO da elementor-element elementor-element-0eea | OK
+820   home         PRIMA first 0 hdr -85 scroll -785 | DOPO first 0 hdr 0 h 73 scroll 0 scrolledClass false ovX 0 dropdown COPERTO da elementor-element elementor-element-0eea | OK
+768   contatti/    PRIMA first 0 hdr -85 scroll -785 | DOPO first 0 hdr 0 h 73 scroll 0 scrolledClass false ovX 0 dropdown COPERTO da elementor-element elementor-element-0eea | OK
+767   home         PRIMA first 79 hdr -85 scroll -785 | DOPO first 79 hdr 0 h 194 scroll 0 scrolledClass false ovX 0 dropdown COPERTO da elementor-element elementor-element-0eea | OK
+414   tecnologia/  PRIMA first 34 hdr -85 scroll -785 | DOPO first 34 hdr 0 h 119 scroll 0 scrolledClass false ovX 0 dropdown COPERTO da elementor-element elementor-element-0eea | OK
+360   home         PRIMA first -8 hdr -85 scroll -785 | DOPO first -8 hdr 0 h 107 scroll 0 scrolledClass false ovX 0 dropdown COPERTO da elementor-element elementor-element-0eea | OK

@@ -1,0 +1,258 @@
+[
+ {
+  "id": "IT-1",
+  "pagina": "Certificazioni",
+  "testo_attuale": "autoestingenza",
+  "perche": "Refuso nel testo sorgente: Weglot lo traduce male in tutte le lingue.",
+  "testo_corretto": "autoestinguenza",
+  "dove": "A"
+ },
+ {
+  "id": "IT-2",
+  "pagina": "MagFace Concept House",
+  "testo_attuale": "superfice",
+  "perche": "Refuso nel testo sorgente.",
+  "testo_corretto": "superficie",
+  "dove": "A"
+ },
+ {
+  "id": "IT-3",
+  "pagina": "Tutte le pagine (titolo newsletter)",
+  "testo_attuale": "Mag Face",
+  "perche": "Marchio scritto staccato: la regola di glossario non lo riconosce.",
+  "testo_corretto": "MagFace®",
+  "dove": "A"
+ },
+ {
+  "id": "IT-4",
+  "pagina": "Chi siamo; Partner tecnici",
+  "testo_attuale": "PURPOSE & AMBITION e frasi in inglese nel testo italiano",
+  "perche": "Weglot tratta l'inglese come italiano: le pagine EN restano invariate, le altre lingue ricevono traduzioni casuali.",
+  "testo_corretto": "Riscrivere in italiano (es. \"Visione e obiettivi\"); le versioni nelle altre lingue le produce Weglot.",
+  "dove": "A"
+ },
+ {
+  "id": "IT-5",
+  "pagina": "News (sezione italiana)",
+  "testo_attuale": "Articoli con titolo in spagnolo e in tedesco",
+  "perche": "Weglot li \"traduce\" come se fossero italiano: il risultato è senza senso.",
+  "testo_corretto": "Pubblicare ogni articolo nella sua lingua, oppure escludere quegli articoli dalla traduzione automatica.",
+  "dove": "A + F"
+ },
+ {
+  "id": "IT-6",
+  "pagina": "News – meta description",
+  "testo_attuale": "News e Eventi Notizia in evidenza",
+  "perche": "Segnaposto di 33 caratteri, tradotto tale e quale in tutte le lingue.",
+  "testo_corretto": "News ed eventi MagFace®: fiere, progetti realizzati, partnership e novità sulla posa magnetica a secco brevettata per pavimenti e rivestimenti.",
+  "dove": "A"
+ },
+ {
+  "id": "ALL-1",
+  "pagina": "Tutte le pagine EN, DE, ES",
+  "testo_attuale": "pose (EN) · Pose (DE) · pose (ES)",
+  "perche": "In queste lingue \"pose\" vuol dire posa fotografica, non posa in opera. In FR invece è corretto.",
+  "testo_corretto": "installation (EN) · Verlegung (DE) · colocación (ES). FR: nessuna modifica.",
+  "dove": "B + C"
+ },
+ {
+  "id": "M-1",
+  "pagina": "MagFace Concept House, tutte le lingue",
+  "testo_attuale": "teaser-ita.mp4, Intervista-Andrea-Bassi-ITA, Intervista-architetto-ITA in ogni lingua",
+  "perche": "Il visitatore estero vede video in italiano.",
+  "testo_corretto": "Video EN nelle pagine EN, FR e DE; video ES nella pagina ES; video IT solo nella pagina IT. Nomi file con la lingua (es. magface-concept-house-teaser-en.mp4).",
+  "dove": "M"
+ },
+ {
+  "id": "EN-1",
+  "pagina": "Home – meta description",
+  "testo_attuale": "MagFace® It is the first...",
+  "perche": "Frase spezzata: il marchio è separato e la traduzione riparte con \"It is\".",
+  "testo_corretto": "Sostituire con la description EN della sezione 11.",
+  "dove": "D (+ sez. 4)"
+ },
+ {
+  "id": "EN-2",
+  "pagina": "Home / Chi siamo",
+  "testo_attuale": "MagFace® borns from...",
+  "perche": "\"to born\" non esiste in inglese.",
+  "testo_corretto": "MagFace® was born from...",
+  "dove": "C"
+ },
+ {
+  "id": "EN-3",
+  "pagina": "FAQ / Home",
+  "testo_attuale": "Who can use it MagFace®?",
+  "perche": "\"it\" e il marchio sono ripetuti come oggetto.",
+  "testo_corretto": "Who can use MagFace®?",
+  "dove": "C"
+ },
+ {
+  "id": "EN-4",
+  "pagina": "Home / Tecnologia",
+  "testo_attuale": "The traditional pose",
+  "perche": "\"pose\" = posa fotografica.",
+  "testo_corretto": "Traditional installation",
+  "dove": "B + C"
+ },
+ {
+  "id": "EN-5",
+  "pagina": "Footer",
+  "testo_attuale": "P. IVA",
+  "perche": "Sigla italiana, non comprensibile all'estero.",
+  "testo_corretto": "VAT No. IT02278260357",
+  "dove": "C"
+ },
+ {
+  "id": "FR-1",
+  "pagina": "Home – meta description",
+  "testo_attuale": "MagFace® Il s'agit de...",
+  "perche": "Frase spezzata (come EN-1) e 175 caratteri: troppo lunga, Google la taglia.",
+  "testo_corretto": "Sostituire con la description FR della sezione 11.",
+  "dove": "D (+ sez. 4)"
+ },
+ {
+  "id": "FR-2",
+  "pagina": "Home – titolo del primo blocco",
+  "testo_attuale": "Des surfaces qui se remplacent l'une l'autre. Ils ne sont pas démolis.",
+  "perche": "\"surfaces\" è femminile: \"Ils … démolis\" è sbagliato. \"l'une l'autre\" significa \"a vicenda\", senso che l'italiano non ha.",
+  "testo_corretto": "Des surfaces qui se remplacent, sans démolition.",
+  "dove": "C"
+ },
+ {
+  "id": "FR-3",
+  "pagina": "Footer",
+  "testo_attuale": "P. IVA",
+  "perche": "Sigla italiana.",
+  "testo_corretto": "N° TVA IT02278260357",
+  "dove": "C"
+ },
+ {
+  "id": "FR-4",
+  "pagina": "Home – meta title",
+  "testo_attuale": "MagFace® | Installation magnétique à sec pour sols et murs",
+  "perche": "In francese la posa di piastrelle si chiama \"pose\", non \"installation\". È il termine usato da Fiandre per Attract (\"pose magnétique à sec\") e da Casalgrande Padana (\"pose à sec\"): chi cerca in francese scrive \"pose\".",
+  "testo_corretto": "MagFace® | Pose magnétique à sec pour sols et murs",
+  "dove": "D + B"
+ },
+ {
+  "id": "DE-1",
+  "pagina": "Home",
+  "testo_attuale": "Die erste magnetische Pose in weltweit patentiert",
+  "perche": "\"Pose\" = posa fotografica; \"in weltweit\" non è grammaticale.",
+  "testo_corretto": "Die weltweit erste patentierte magnetische Trockenverlegung",
+  "dove": "B + C"
+ },
+ {
+  "id": "DE-2",
+  "pagina": "Tutte le pagine",
+  "testo_attuale": "du / dein / dich / dir (mescolati con Sie)",
+  "perche": "In un sito B2B tedesco si usa solo la forma di cortesia.",
+  "testo_corretto": "Sie / Ihr / Sie / Ihnen. Cercare \" du \", \"dein\", \"dich\", \"dir\" nella lista traduzioni DE.",
+  "dove": "Impostazione + C"
+ },
+ {
+  "id": "DE-3",
+  "pagina": "Pagina in cui compare (da cercare)",
+  "testo_attuale": "Überdachung",
+  "perche": "Significa \"tettoia\".",
+  "testo_corretto": "Überdeckung (sovrapposizione/copertura). DA CONFERMARE sul contesto della frase italiana.",
+  "dove": "C"
+ },
+ {
+  "id": "DE-4",
+  "pagina": "Menu + URL",
+  "testo_attuale": "Nachricht · /de/nachricht/",
+  "perche": "\"Nachricht\" = un singolo messaggio, non la sezione notizie.",
+  "testo_corretto": "News · /de/news/ (con redirect 301 da /de/nachricht/)",
+  "dove": "C + E"
+ },
+ {
+  "id": "DE-5",
+  "pagina": "Footer",
+  "testo_attuale": "Agentur · Dienstprogramm",
+  "perche": "\"Agentur\" = agenzia; \"Dienstprogramm\" = programma di utilità software.",
+  "testo_corretto": "Unternehmen (se la voce IT è \"Azienda\") · Service oppure Nützliche Links (se la voce IT è \"Utility\" / \"Link utili\"). DA CONFERMARE sulla voce italiana.",
+  "dove": "C"
+ },
+ {
+  "id": "DE-6",
+  "pagina": "Codice della pagina (meta)",
+  "testo_attuale": "twitter:card con valore tradotto",
+  "perche": "Il valore è una parola chiave tecnica: tradotto, non è valido e le anteprime su X non funzionano.",
+  "testo_corretto": "Ripristinare il valore originale (summary_large_image o quello della pagina IT) ed escluderlo dalla traduzione.",
+  "dove": "D + F"
+ },
+ {
+  "id": "DE-7",
+  "pagina": "Home – meta description",
+  "testo_attuale": "MagFace® Es handelt sich um...",
+  "perche": "Frase spezzata (come EN-1).",
+  "testo_corretto": "Sostituire con la description DE della sezione 11.",
+  "dove": "D (+ sez. 4)"
+ },
+ {
+  "id": "DE-8",
+  "pagina": "URL",
+  "testo_attuale": "/magnetische-oberflachen/ · /haufig-gestellte-fragen/",
+  "perche": "Dieresi tolte: \"Oberflachen\" e \"haufig\" non sono parole tedesche.",
+  "testo_corretto": "/magnetische-oberflaechen/ · /haeufig-gestellte-fragen/ (con redirect 301 dai vecchi URL)",
+  "dove": "E"
+ },
+ {
+  "id": "DE-9",
+  "pagina": "Footer",
+  "testo_attuale": "P. IVA",
+  "perche": "Sigla italiana.",
+  "testo_corretto": "USt-IdNr. IT02278260357",
+  "dove": "C"
+ },
+ {
+  "id": "DE-10",
+  "pagina": "Home – meta title",
+  "testo_attuale": "MagFace® | Trockene Magnetverlegung für Böden und Wände",
+  "perche": "Il mercato tedesco usa il termine composto \"Trockenverlegung\" (Agrob Buchtal DryTile, Casalgrande Padana) e Fiandre presenta Attract come \"magnetische Trockenverlegung\". \"Trockene Magnetverlegung\" non corrisponde a ciò che si cerca.",
+  "testo_corretto": "MagFace® | Magnetische Trockenverlegung für Boden und Wand",
+  "dove": "D + B"
+ },
+ {
+  "id": "ES-1",
+  "pagina": "Home – meta description",
+  "testo_attuale": "Description di 173 caratteri",
+  "perche": "Troppo lunga: Google la taglia.",
+  "testo_corretto": "Sostituire con la description ES della sezione 11.",
+  "dove": "D"
+ },
+ {
+  "id": "ES-2",
+  "pagina": "Home – titolo del primo blocco",
+  "testo_attuale": "Superficies que se reemplazan. No han sido demolidos.",
+  "perche": "\"superficies\" è femminile: \"demolidos\" è sbagliato. Il passato prossimo cambia anche il senso (\"non sono state demolite\").",
+  "testo_corretto": "Superficies que se sustituyen sin demoler.",
+  "dove": "C"
+ },
+ {
+  "id": "ES-3",
+  "pagina": "Home",
+  "testo_attuale": "La primera pose magnética en Patente de secado único",
+  "perche": "Frase senza senso: \"pose\" = posa fotografica, \"en Patente\" è un calco, \"secado único\" vuol dire \"essiccazione unica\".",
+  "testo_corretto": "La primera colocación magnética en seco patentada a nivel mundial",
+  "dove": "B + C"
+ },
+ {
+  "id": "ES-4",
+  "pagina": "Footer",
+  "testo_attuale": "P. IVA",
+  "perche": "Sigla italiana.",
+  "testo_corretto": "N.º IVA IT02278260357",
+  "dove": "C"
+ },
+ {
+  "id": "ES-5",
+  "pagina": "Home – meta title",
+  "testo_attuale": "MagFace® Instalación magnética en seco para suelos y paredes",
+  "perche": "In Spagna la posa di piastrelle si chiama \"colocación\": la usano Tau Cerámica / Pamesa (\"técnica de colocación\", Dry System \"colocación en seco\") e il Generador de Precios CYPE usato dai progettisti (\"baldosas cerámicas colocadas en seco\"). Manca anche il separatore \"|\".",
+  "testo_corretto": "MagFace® | Colocación magnética en seco: suelos y paredes",
+  "dove": "D + B"
+ }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "MagFace®",
+  "description": "Patented dry magnetic installation system for floors and walls (porcelain tile, natural stone, decorative surfaces).",
+  "publisher": { "name": "Bassi Group International Srl", "url": "https://www.magface.it/", "foundingDate": "2002", "address": "Piazzale degli Alberi 7, 42024 Castelnovo di Sotto (RE), IT" },
+  "languages": ["it", "en", "fr", "de", "es"],
+  "entrypoints": {
+    "it": "https://www.magface.it/", "en": "https://www.magface.it/en/", "fr": "https://www.magface.it/fr/",
+    "de": "https://www.magface.it/de/", "es": "https://www.magface.it/es/"
+  },
+  "llms_txt": "https://www.magface.it/llms.txt",
+  "contact": "https://www.magface.it/contatti/",
+  "notes": "BOZZA da approvare da MagFace prima della pubblicazione. Nessun dato di prestazione percentuale incluso."
+}

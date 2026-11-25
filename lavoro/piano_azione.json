@@ -1,0 +1,227 @@
+[
+ {
+  "n": "SETTIMANA 1 — Fondamenta tecniche e testi",
+  "azione": "SETTIMANA 1 — Fondamenta tecniche e testi",
+  "resp": "SETTIMANA 1 — Fondamenta tecniche e testi",
+  "rif": "SETTIMANA 1 — Fondamenta tecniche e testi",
+  "fatto": "SETTIMANA 1 — Fondamenta tecniche e testi",
+  "data": "SETTIMANA 1 — Fondamenta tecniche e testi",
+  "note": "SETTIMANA 1 — Fondamenta tecniche e testi"
+ },
+ {
+  "n": "1",
+  "azione": "Dominio di staging\nAIOSEO › Social Networks: immagine predefinita og:image e twitter:image → file caricato su www.magface.it. AIOSEO › Search Appearance › Knowledge Graph › Logo → URL su www.magface.it. Verifica: nel sorgente della home la ricerca «cpanel.site» dà 0 risultati; LinkedIn Post Inspector mostra l'anteprima.",
+  "resp": "WM",
+  "rif": "Audit · SEO tecnica",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "2",
+  "azione": "Sitemap pulita\nAIOSEO › Sitemaps › escludere i 22 URL: 12 /mymagface/, /checkout/, /customer-dashboard/, /shop/, /portal-login/, /portal-register/, /thank-you/, /privacy-policy-2/, 3 «angie_snippet». Sulle stesse pagine: Robots = noindex. Verifica: /sitemap.xml non li contiene più.",
+  "resp": "WM",
+  "rif": "Audit · SEO tecnica",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "3",
+  "azione": "Un H1 per pagina\nElementor, 14 pagine: titolo principale → Tag HTML = H1, uno solo. Titoli di sezione = H2. Numeri e contatori («-70%», «110 m²») = paragrafo, non titolo. Le lingue si aggiornano da sole. Verifica: un solo <h1> nel sorgente di ogni pagina.",
+  "resp": "WM",
+  "rif": "Audit · SEO tecnica",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "4",
+  "azione": "Title e description IT\nAIOSEO di ogni pagina: copiare title e description della tabella «Italiano», sostituendo l'intero campo. Verifica: <title> e <meta name=\"description\"> nel sorgente.",
+  "resp": "WM",
+  "rif": "Audit · Title e meta description",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "5",
+  "azione": "Seguire le MagFace Weglot SEO Guidelines Rev. 02 2026\nApplicare il documento collegato in quest'ordine: prompt AI, tedesco formale (Sie) e glossario in 5 lingue (sez. 3, 4, 5), poi correzioni del testo italiano e delle traduzioni (sez. 9, procedura sez. 10), infine quality check (sez. 12). Sostituisce la precedente voce «Revisione delle traduzioni».",
+  "resp": "WM",
+  "rif": "Weglot Guidelines Rev. 02 · sez. 3–12",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "6",
+  "azione": "Correzioni testo italiano\nRighe IT-1 … IT-6: refusi, «Mag Face», testi in inglese, articoli News in altre lingue, description News. Da fare prima di toccare le traduzioni.",
+  "resp": "WM",
+  "rif": "Weglot Guidelines Rev. 02 · sez. 9",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "7",
+  "azione": "Correzioni traduzioni\nRighe ALL-1, EN-1 … EN-5, FR-1 … FR-4, DE-1 … DE-10, ES-1 … ES-5. Le righe «DA CONFERMARE» solo dopo l'ok scritto di MagFace.",
+  "resp": "WM + MF",
+  "rif": "Weglot Guidelines Rev. 02 · sez. 9, 10",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "8",
+  "azione": "Title e description EN, FR, DE, ES\nWeglot › Translations: incollare i testi delle tabelle EN, FR, DE, ES al posto della traduzione automatica. Verifica: <title> sulle pagine /en/, /fr/, /de/, /es/.",
+  "resp": "WM",
+  "rif": "Audit · Title e meta description",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "9",
+  "azione": "Home su mobile\nElementor › vista Mobile › primo blocco: aumentare margine e interlinea finché titolo e sottotitolo non si sovrappongono. Verifica: Chrome DevTools a 375 × 812 px.",
+  "resp": "WM",
+  "rif": "Audit · Mobile",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "10",
+  "azione": "Link «#»\nEcosistema → pagina indicata da MagFace. Iscriviti → modulo newsletter. Italy → selettore lingua oppure rimuovere.",
+  "resp": "WM + MF",
+  "rif": "Audit · SEO tecnica",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "11",
+  "azione": "Contatori Concept House\nRendere statici i valori 2018 · 110 m² · 24 ore · 0 demolizioni, oppure ripeterli in una riga di testo sotto i contatori. Verifica: il sorgente contiene «110 m²».",
+  "resp": "WM",
+  "rif": "Audit · GEO",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "SETTIMANA 2 — Velocità, dati strutturati, contenuti per le AI",
+  "azione": "SETTIMANA 2 — Velocità, dati strutturati, contenuti per le AI",
+  "resp": "SETTIMANA 2 — Velocità, dati strutturati, contenuti per le AI",
+  "rif": "SETTIMANA 2 — Velocità, dati strutturati, contenuti per le AI",
+  "fatto": "SETTIMANA 2 — Velocità, dati strutturati, contenuti per le AI",
+  "data": "SETTIMANA 2 — Velocità, dati strutturati, contenuti per le AI",
+  "note": "SETTIMANA 2 — Velocità, dati strutturati, contenuti per le AI"
+ },
+ {
+  "n": "12",
+  "azione": "Velocità mobile\nImmagini in WebP con dimensioni responsive. Immagine hero: preload, fetchpriority=\"high\", niente lazy-load. Cache del browser di almeno 1 anno per i file statici. Facebook Pixel e script non essenziali in defer/delay. Disattivare i widget Elementor non usati. Obiettivo: LCP mobile sotto 4 s, PageSpeed mobile sopra 70. Verifica: nuovo report PageSpeed allegato.",
+  "resp": "WM",
+  "rif": "Audit · Velocità",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "13",
+  "azione": "Testo alternativo\nMedia Library: ogni immagine di contenuto ha un alt in italiano, formato «cosa · materiale/formato · MagFace®», es. «Posa magnetica a secco di una lastra 160×320 cm in gres porcellanato – MagFace Academy». Loghi partner: alt = nome del partner. Immagini decorative: alt vuoto. Controllare in Weglot gli alt tradotti con il glossario.",
+  "resp": "WM",
+  "rif": "Audit · GEO; Weglot Guidelines Rev. 02 · sez. 5",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "14",
+  "azione": "Dati strutturati Organization\nAIOSEO › Search Appearance › Knowledge Graph: ragione sociale, indirizzo, P. IVA, anno di fondazione, logo. Fondatore con schema personalizzato (Appendice A). Verifica: Rich Results Test senza errori.",
+  "resp": "WM",
+  "rif": "Audit · GEO · Appendice A",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "15",
+  "azione": "hreflang x-default\nPuntare x-default alla versione inglese. Weglot lo imposta sulla lingua originale: modificarlo con le opzioni o i filtri di Weglot per WordPress, oppure tramite il supporto Weglot. Verifica: hreflang=\"x-default\" verso /en/ nel sorgente.",
+  "resp": "WM",
+  "rif": "Audit · SEO tecnica",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "16",
+  "azione": "Video Concept House per lingua\nVideo EN su pagine EN, FR, DE; video ES su pagina ES; video IT solo su IT. Nomi file con la lingua. Sotto ogni video una trascrizione di 100–200 parole nella lingua della pagina (testi forniti da MagFace).",
+  "resp": "WM + MF",
+  "rif": "Weglot Guidelines Rev. 02 · riga M-1",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "17",
+  "azione": "Affermazioni con prova\nAccanto a «primo e unico al mondo», «sicuro per portatori di pacemaker», «certificato»: link al brevetto, al report o al certificato, sulla stessa pagina.",
+  "resp": "WM + MF",
+  "rif": "Audit · GEO",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "18",
+  "azione": "llms.txt e ai-catalog.json\nSostituire llms.txt con una versione in inglese: cos'è MagFace®, chi c'è dietro, numeri chiave, link alle pagine principali nelle 5 lingue (testo approvato da MagFace). Creare /.well-known/ai-catalog.json. Verifica: entrambi gli URL rispondono 200.",
+  "resp": "WM + MF",
+  "rif": "Audit · GEO",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "19",
+  "azione": "Casi studio in pagine web\nDal PDF dei casi studio, una pagina per settore (retail, automotive, hospitality, uffici): superficie in m², materiale e formato, tempi, risultato, foto con alt. Contenuti da MagFace.",
+  "resp": "MF + WM",
+  "rif": "Audit · GEO",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "20",
+  "azione": "News per lingua\nOgni articolo nella sezione della sua lingua, con autore e data visibili e schema Article (AIOSEO › Schema).",
+  "resp": "WM",
+  "rif": "Audit · Pagine italiane",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "21",
+  "azione": "Link dalla Francia\nMagFace contatta 3–5 riviste e siti di settore francesi con un comunicato in francese e link a magface.it/fr/.",
+  "resp": "MF",
+  "rif": "Audit · GEO",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "22",
+  "azione": "Google Search Console\nA lavori finiti: inviare di nuovo la sitemap; in «Pagine» annotare quante URL /en/, /fr/, /de/, /es/ sono indicizzate; «Controllo URL» › Richiedi indicizzazione per home, Tecnologia, FAQ e Licensing in ogni lingua.",
+  "resp": "WM",
+  "rif": "Audit · GEO; Weglot Guidelines Rev. 02 · sez. 12",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ },
+ {
+  "n": "23",
+  "azione": "Consegna\nIl web master compila le colonne Fatto, Data e Note di questa tabella, allega il report PageSpeed e una schermata di Search Console, e restituisce il file a MagFace.",
+  "resp": "WM",
+  "rif": "—",
+  "fatto": "☐",
+  "data": "",
+  "note": ""
+ }
+]

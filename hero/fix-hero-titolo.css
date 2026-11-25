@@ -1,0 +1,5 @@
+/* Hero home: titolo spostato in alto, per non sovrapporsi a sottotitolo e bottone (24/11/2026).
+   L'effetto di movimento allo scroll sposta la riga sottotitolo+bottone verso il titolo; lo spazio extra cresce con l'altezza dello schermo. */
+.elementor-137 .elementor-element.elementor-element-1f07eb1,.elementor-137 .elementor-element.elementor-element-edc8002,.elementor-137 .elementor-element.elementor-element-d5547b0,.elementor-137 .elementor-element.elementor-element-35fcce3{margin-bottom:max(0px,calc(11.25vh - 80px))}
+@media (max-width:1024px){.elementor-137 .elementor-element.elementor-element-1f07eb1,.elementor-137 .elementor-element.elementor-element-edc8002,.elementor-137 .elementor-element.elementor-element-d5547b0,.elementor-137 .elementor-element.elementor-element-35fcce3{margin-bottom:7.5vh}}
+@media (max-width:767px){.elementor-137 .elementor-element.elementor-element-1f07eb1,.elementor-137 .elementor-element.elementor-element-edc8002,.elementor-137 .elementor-element.elementor-element-d5547b0,.elementor-137 .elementor-element.elementor-element-35fcce3{margin-bottom:max(10px,calc(5vh - 12px))}}

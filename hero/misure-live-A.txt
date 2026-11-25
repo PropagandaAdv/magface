@@ -1,0 +1,7 @@
+2560x1300 spazio minimo titolo→(sottotitolo/bottone) per slide: s1: 34px @scroll 0 | s2: 34px @scroll 0 | s3: 34px @scroll 0 | s4: 34px @scroll 0 | top titolo a scroll 0: 910/910/910/910
+1920x1080 spazio minimo titolo→(sottotitolo/bottone) per slide: s1: 27px @scroll 0 | s2: 27px @scroll 0 | s3: 27px @scroll 0 | s4: 27px @scroll 0 | top titolo a scroll 0: 663/663/663/663
+1804x1080 spazio minimo titolo→(sottotitolo/bottone) per slide: s1: 27px @scroll 0 | s2: 27px @scroll 0 | s3: 27px @scroll 0 | s4: 27px @scroll 0 | top titolo a scroll 0: 656/656/656/656
+1440x900  spazio minimo titolo→(sottotitolo/bottone) per slide: s1: 47px @scroll 0 | s2: 47px @scroll 0 | s3: 25px @scroll 0 | s4: 47px @scroll 0 | top titolo a scroll 0: 316/316/458/316
+1366x768  spazio minimo titolo→(sottotitolo/bottone) per slide: s1: 47px @scroll 800 | s2: 47px @scroll 800 | s3: 26px @scroll 0 | s4: 47px @scroll 800 | top titolo a scroll 0: 177/177/320/38
+1353x720  spazio minimo titolo→(sottotitolo/bottone) per slide: s1: 41px @scroll 800 | s2: 41px @scroll 800 | s3: 27px @scroll 0 | s4: 41px @scroll 800 | top titolo a scroll 0: 126/126/270/-12
+1280x720  spazio minimo titolo→(sottotitolo/bottone) per slide: s1: 41px @scroll 800 | s2: 41px @scroll 800 | s3: 28px @scroll 0 | s4: 41px @scroll 800 | top titolo a scroll 0: 122/122/265/-17

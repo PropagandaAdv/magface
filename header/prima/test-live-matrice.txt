@@ -1,0 +1,10 @@
+1920  home         desktop header top 0 h 139 | contenuti a 54 | scroll700 header 0 bianco true | in cima di nuovo nero true top 0 | overflowX 0 | menu: -
+1366  home         desktop header top 0 h 113 | contenuti a 28 | scroll700 header 0 bianco true | in cima di nuovo nero true top 0 | overflowX 0 | menu: -
+1365  tecnologia/  desktop header top 0 h 113 | contenuti a 28 | scroll700 header 0 bianco true | in cima di nuovo nero true top 0 | overflowX 0 | menu: -
+1280  home         desktop header top 0 h 109 | contenuti a 24 | scroll700 header 0 bianco true | in cima di nuovo nero true top 0 | overflowX 0 | menu: -
+1024  tecnologia/  mobile  header top 0 h 78 | contenuti a 0 | scroll700 header 0 bianco false | in cima di nuovo nero true top 0 | overflowX 0 | menu: apre ma COPERTO
+820   home         mobile  header top 0 h 73 | contenuti a 0 | scroll700 header 0 bianco false | in cima di nuovo nero true top 0 | overflowX 0 | menu: apre ma COPERTO
+768   contatti/    mobile  header top 0 h 73 | contenuti a 0 | scroll700 header 0 bianco false | in cima di nuovo nero true top 0 | overflowX 0 | menu: apre ma COPERTO
+767   home         mobile  header top 0 h 194 | contenuti a 79 | scroll700 header 0 bianco false | in cima di nuovo nero true top 0 | overflowX 0 | menu: apre ma COPERTO
+414   tecnologia/  mobile  header top 0 h 119 | contenuti a 34 | scroll700 header 0 bianco false | in cima di nuovo nero true top 0 | overflowX 0 | menu: apre ma COPERTO
+360   home         mobile  header top 0 h 107 | contenuti a -8 | scroll700 header 0 bianco false | in cima di nuovo nero true top 0 | overflowX 0 | menu: apre ma COPERTO
